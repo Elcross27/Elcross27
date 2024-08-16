@@ -4,7 +4,7 @@
 Este programa establece una conexión a una base de datos MySQL llamada `empresa_db` utilizando JDBC.
 
 ## Requisitos
-- MySQL instalado en el sistema.
+- Xampp instalado en el sistema, con los requisitos básicos.
 - Conector JDBC para MySQL (mysql-connector-java).
 - Java 8 o superior.
 
